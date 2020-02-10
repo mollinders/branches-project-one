@@ -2,3 +2,16 @@
   width: 80%;
   margin: 0 auto;
 }
+
+.content {
+  background-color: #DDDDDD;
+  color: #6E6E6E;
+
+  padding: 60px 30px;
+
+  font-size: 2em;
+  font-weight: 700;
+  text-transform: uppercase;
+
+  text-align: center;
+}
