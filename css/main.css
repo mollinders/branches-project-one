@@ -3,6 +3,19 @@
   margin: 0 auto;
 }
 
+.header {
+  background-color: #00246C;
+  color: #FFFFFF;
+
+  padding: 30px;
+
+  font-size: 2em;
+  font-weight: 700;
+  text-transform: uppercase;
+
+  text-align: center;
+}
+
 .footer {
   background-color: #00246C;
   color: #FFFFFF;
